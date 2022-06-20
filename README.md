@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Menesay
 - 👀 I’m interested in ethical hacking, make games and programs.
-- 🌱 I know Python, Java and Unity.
-
-Also 
+- 🌱 I know Bash, Python, Java and Unity.
+- 💻 Also linux, cryptography, networking and security. 
 
