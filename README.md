@@ -4,5 +4,5 @@
 https://www.codewars.com/users/Menesay
 
 ### Try Hack Me
-![Alt text](https://tryhackme.com/badge/1181586 "thm")
+<img src="https://tryhackme-badges.s3.amazonaws.com/Menesay.png" alt="TryHackMe">
 https://tryhackme.com/p/Menesay
