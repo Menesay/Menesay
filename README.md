@@ -6,3 +6,5 @@
 [![Medium](https://i.imgur.com/vEj6Tam.png 'Medium')](https://menesay.medium.com/) <br>
 
 ## [CTF](/ctf.md)
+
+## [Writeup](/writeup.md)
