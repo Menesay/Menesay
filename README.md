@@ -1,11 +1,25 @@
-# I am Menesay 
+# I am Menesay
 
-[![Codewars](https://www.codewars.com/users/Menesay/badges/large 'Codewars')](https://www.codewars.com/users/Menesay) <br>
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Menesay.png 'TryHackMe')](https://tryhackme.com/p/Menesay) <br>
-[![HackTheBox](https://www.hackthebox.eu/badge/image/1338299 'HackTheBox')](https://app.hackthebox.com/profile/1338299) <br>
-[![Medium](https://i.imgur.com/vEj6Tam.png 'Medium')](https://menesay.medium.com/) <br>
-[![Gitbook](https://menesay.gitbook.io/notes/~gitbook/icon?size=small&theme=dark)](https://menesay.gitbook.io/notes/) <br>
+Cyber Security Researcher
 
-## [CTF](/ctf.md)
+## Links
 
-## [Writeup](/writeup.md)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Menesay.png)](https://tryhackme.com/p/Menesay)
+[![HackTheBox](https://www.hackthebox.eu/badge/image/1338299)](https://app.hackthebox.com/profile/1338299)
+[![Linkedin](https://img.utdstc.com/icon/1ce/63c/1ce63cbbb88df4a4beda4536aa387ff7616ff9b4972d11134903d57398d4bd7e:50)](https://www.linkedin.com/in/menesay/)
+
+## Notes
+
+| Topic | Link |
+|-------|------|
+| 🏢 Active Directory | https://menesay.gitbook.io/ad/ |
+| 🤖 AI Security | https://menesay.gitbook.io/ai-security/ |
+| 🔧 Hardware | https://menesay.gitbook.io/hardware |
+| 💻 C Programming | https://menesay.gitbook.io/c-notes/ |
+
+<br>
+
+## [Writeups](/writeup.md)
+
+## [CTF Achievements](/ctf.md)
+
