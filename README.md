@@ -12,10 +12,11 @@ Cyber Security Researcher
 
 | Topic | Link |
 |-------|------|
-| 🏢 Active Directory | https://menesay.gitbook.io/ad/ |
-| 🤖 AI Security | https://menesay.gitbook.io/ai-security/ |
+| 🏢 Active Directory | https://menesay.gitbook.io/ad |
+| 🤖 AI Security | https://menesay.gitbook.io/ai-security |
 | 🔧 Hardware | https://menesay.gitbook.io/hardware |
-| 💻 C Programming | https://menesay.gitbook.io/c-notes/ |
+| 💻 C Programming | https://menesay.gitbook.io/c-notes |
+| 🔒 Cryptography | https://menesay.gitbook.io/crypto |
 
 <br>
 
