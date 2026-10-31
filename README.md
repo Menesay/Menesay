@@ -24,4 +24,3 @@ Cyber Security Researcher
 ## [Writeups](/writeup.md)
 
 ## [CTF Achievements](/ctf.md)
-
